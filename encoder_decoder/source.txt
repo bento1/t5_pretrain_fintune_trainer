@@ -1,0 +1,39 @@
+https://github.com/nkw011/nlp_tutorial/blob/main/RNN_LSTM/Language_Modeling.ipynb
+
+
+https://teddylee777.github.io/pytorch/seq2seq-attention-chatbot/
+
+https://9bow.github.io/PyTorch-tutorials-kr-0.3.1/intermediate/seq2seq_translation_tutorial.html
+
+https://github.com/jessevig/bertviz?tab=readme-ov-file#encoder-decoder-models-bart-t5-etc
+
+https://huggingface.co/lcw99
+
+https://github.com/joeljang/Pretraining_T5_custom_dataset/tree/master
+
+
+
+https://github.com/huggingface/transformers/issues/27565   pretrain 시  1개씩만 리턴됨 
+
+https://github.com/Lightning-AI/pytorch-lightning/issues/2267 
+
+https://github.com/Lightning-AI/pytorch-lightning/issues/18222
+
+https://stackoverflow.com/questions/76810567/element-0-of-tensors-does-not-require-grad-and-does-not-have-a-grad-fn
+
+a leaf Variable that requires grad is being used in an in-place operation.
+optimizer를 수동으로 실행
+https://stackoverflow.com/questions/54716377/how-to-do-gradient-clipping-in-pytorch
+
+https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887
+
+https://colab.research.google.com/drive/1-wp_pRVxl6c0Y0esn8ShIdeil3Bh854d?usp=sharing#scrollTo=WtI92WcVHrCb
+
+#finetuning
+https://medium.com/@ajazturki10/text-summarization-with-t5-pytorch-and-pytorch-lightning-b7a319ec9ea2
+
+
+mps는 ㅜㅕㅡ에러
+https://github.com/huggingface/transformers/issues/30662
+
+https://littlefoxdiary.tistory.com/46
